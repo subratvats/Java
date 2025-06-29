@@ -48,4 +48,3 @@ reports/
 # === Ignore environment-specific files ===
 .env
 *.env.*
-
