@@ -44,6 +44,7 @@ public class BasicPrograms {
         return new StringBuilder(input).reverse().toString();
     }
 
+
     public static void main(String[] args) {
         int number = 121;
         System.out.println(number + " is palindrome? " + isPalindrome(number));
